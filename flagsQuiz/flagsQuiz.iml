@@ -88,27 +88,15 @@
       <sourceFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/generated/source/apt/test/debug" isTestSource="true" generated="true" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/assets" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/blame" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/build-info" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/builds" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/check-manifest" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/classes" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/incremental" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/incremental-classes" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/incremental-runtime-classes" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/incremental-verifier" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/instant-run-apk" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/instant-run-main-apk-res" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/instant-run-resources" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/javaPrecompile" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/jniLibs" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/manifest-checker" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/manifests" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/prebuild" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/reload-dex" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/res" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/resources" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/shaders" />
-      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/split-apk" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/splits-support" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/symbols" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/transforms" />
