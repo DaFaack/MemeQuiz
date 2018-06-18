@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_font">impact.ttf</string>
+    <string name="app_id">124251</string>
+    <string name="flags_score_leaderboard">xxxxxxx</string>
+    <string name="langDirection">ltr</string>
+
+    <!--Advertising-->
+    <string name="videoAdID">ca-app-pub-6261427791271993/7890516434</string>
+    <string name="adBannerUnitId">ca-app-pub-6261427791271993/9550958750</string>
+    <string name="adInterstitialUnitId">ca-app-pub-6261427791271993/3436266100</string>
+
+    <!--new stuff e.g. links, preise, variable werte-->
+    <string name="link_to_app">https://play.google.com/store/apps/details?id=com.blackskystudios.memequiz</string>
+
+
+    <!-- =========================== COINS =========================== -->
+    <string name="coins_at_start">50</string> <!--muss auch in datenbank geändert werden-->
+    <!--coins shop-->
+    <string name="coins_for_videeoad">25</string>
+    <string name="coins_for_rating">25</string>
+    <string name="coins_for_insta">15</string>
+    <string name="coins_for_share">15</string>
+
+    <!--coins gameactivtiy/hints-->
+    <string name="coins_for_right_answer">5</string>
+    <!--nimmt wert für video von coins settings-->
+    <string name="coin_costs_explosion">20</string>
+    <string name="coin_costs_showletter">5</string>
+    <string name="coin_costs_solution">50</string>
+
+    <!-- =========================== Language =========================== -->
+
+
+    <!-- General -->
+
+    <string name="app_name">Meme Quiz</string>
+    <string name="score">Score</string>
+    <string name="noGooglePlayMessage">Could not open Android market, please install the market app.</string>
+    <string name="stopLetterHelp">Click a question mark to reveal the letter behind it</string>
+    <string name="twitterHelpMessage">Who knows this flag?</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <!--     <string name="alphabet">أبتثجحخدذرزسشصضطظعغفقكلمنهويئءؤىةاآ</string> -->
+
+    <!-- Dialogs -->
+    <!-- Remember! Most buttons of dialogs are graphic buttons not texts -->
+
+    <string name="afterRatingDlg">Thanks for your rating. You got 25 coins !</string>
+    <string name="updatesDlg">There are new %s flags. Download?</string>
+    <string name="noUpdatesDlg">There are not any updates!</string>
+    <string name="facebookHelpDlg">Ask your friends on facebook!\nCost : 5 coins</string>
+    <string name="twitterHelpDlg">Ask your friends on twitter!\nCost : 5 coins</string>
+    <string name="hideHelpDlg">Remove the wrong letters!\nCost : </string>
+    <string name="letterHelpDlg">Show one letter!\nCost : </string>
+    <string name="solutionHelpDlg">Show the solution!\nCost : </string>
+    <string name="noCoinsDlg">You don\'t have enough coins!</string>
+    <string name="correctDlg">Congratulations!</string>
+    <string name="wrongDlg">Wrong!</string>
+    <string name="rateDlg">Please rate our app on google play!</string>
+    <string name="videoAdDlg">You want to see a video ad to get 25 free coins?</string>
+    <string name="resetDlg">After reset you will lose your score, coins and answers. Continue?</string>
+    <string name="exitDlg">Are you sure you want to exit?</string>
+    <string name="finishDlg">Great Job!\nYou have finished the game :)</string>
+    <string name="connectDlgTitle">Internet Connection Error</string>
+    <string name="connectDlgMessage">You have to connect to the internet to get this flag image then refresh!</string>
+    <string name="connectDlgRefreshBtn">Refresh</string>
+    <string name="connectDlgBackBtn">Back</string>
+    <string name="checkUpdatesDlgTitle">Loading...</string>
+    <string name="checkUpdatesDlgMessage">Checking updates...</string>
+    <string name="internetErrorDlgTitle">Internet Connection Error</string>
+    <string name="internetErrorDlgMessage">Please connect to an internet connection!</string>
+    <string name="internetErrorDlgOkBtn">OK</string>
+    <string name="shareDlgTitle">Share via</string>
+    <string name="shareDlgSubject">Meme Quiz</string>
+    <string name="shareDlgMessage">Meme Quiz on Google Play! \n\n</string>
+
+    <!-- Settings -->
+
+    <string name="settingsTitle">SETTINGS</string>
+    <string name="soundBtnOn">Sound Effects on</string>
+    <string name="soundBtnOff">Sound Effects off</string>
+    <string name="vibrateBtnOn">Vibration on</string>
+    <string name="vibrateBtnOff">Vibration off</string>
+    <string name="checkBtn">Check For Updates</string>
+    <string name="resetBtn">Reset Game</string>
+    <string name="impressumBtn">Impressum</string>
+
+    <!-- SHOP -->
+    <string name="shopTitle">SHOP</string>
+    <string name="rateBtn">Rate</string>
+    <string name="shareBtn">Share</string>
+
+    <!-- Update Progress Bar Notification -->
+
+    <string name="downloadingInitializing">Downloading initializing...</string>
+    <string name="downloadingProgressBar">Downloading:</string>
+    <string name="updateSuccess">Updating completed successfully</string>
+
+
+    <!-- Impressm -->
+    <string name="impressumTitle">Impressum</string>
+    <string name="impressum_pollfish_title">Survey Serving Technology</string>
+    <string name="impressum_pollfish_content">This app uses Pollfish SDK. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Developers of applications for smartphones in order to have access to users of such applications and address survey questionnaires to them. When a user connects to this app, a specific set of user’s device data (including Advertising ID which will may be processed by Pollfish only in strict compliance with google play policies- and/or other device data) and response meta-data (including information about the apps which the user has installed in his mobile phone) is automatically sent to Pollfish servers, in order for Pollfish to discern whether the user is eligible for a survey. For a full list of data received by Pollfish through this app, please read carefully Pollfish respondent terms located at https://www.pollfish.com/terms/respondent. These data will be associated with your answers to the questionnaires whenever Pollfish sents such questionnaires to eligible users. By downloading the application you accept this privacy policy document and you hereby give your consent for the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by using the Pollfish “opt out section” available on Pollfish website . We once more invite you to check the respondent’s terms of use, if you wish to have more detailed view of the way Pollfish works.
+
+APPLE, GOOGLE AND AMAZON ARE NOT A SPONSOR NOR ARE INVOLVED IN ANY WAY IN THIS CONTEST/DRAW. NO APPLE PRODUCTS ARE BEING USED AS PRIZES.</string>
+
+
+</resources>
