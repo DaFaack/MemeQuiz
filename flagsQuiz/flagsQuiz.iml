@@ -93,9 +93,11 @@
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/incremental" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/javaPrecompile" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/jniLibs" />
+      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/lint" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/manifests" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/prebuild" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/res" />
+      <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/rs" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/shaders" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/splits-support" />
       <excludeFolder url="file://C:/tmp/MemeQuiz/flagsQuiz/intermediates/symbols" />
