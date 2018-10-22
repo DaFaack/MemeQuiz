@@ -90,6 +90,7 @@
     <!-- Update Progress Bar Notification -->
 
     <string name="downloadingInitializing">Downloading initializing...</string>
+    <string name="sss">Downloading initializing...</string>
     <string name="downloadingProgressBar">Downloading:</string>
     <string name="updateSuccess">Updating completed successfully</string>
 
