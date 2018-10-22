@@ -231,8 +231,8 @@ public class ShopActivity
         RelativeLayout scoreAndCoins = (RelativeLayout) layout.findViewById(R.id.scoreAndCoins);
         scoreAndCoins.setVisibility(View.GONE);
 
-        TextView level = (TextView) layout.findViewById(R.id.level);
-        level.setVisibility(View.GONE);
+        TextView from = (TextView) layout.findViewById(R.id.from);
+        from.setVisibility(View.GONE);
 
         TextView coinfield = (TextView) findViewById(R.id.coinfield);
         coinfield.setTypeface(tf);

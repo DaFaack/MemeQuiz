@@ -33,8 +33,8 @@ SoundClass sou;
         scoreAndCoins.setVisibility(View.GONE);
 
 
-        TextView level = (TextView) layout.findViewById(R.id.level);
-        level.setVisibility(View.GONE);
+        TextView from = (TextView) layout.findViewById(R.id.from);
+        from.setVisibility(View.GONE);
 
         ImageButton back = (ImageButton) layout.findViewById(R.id.back);
         back.setOnClickListener(new View.OnClickListener() {
